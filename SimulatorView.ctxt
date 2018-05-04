@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=animalClass\ color
+comment0.target=void\ setColor(java.lang.Class,\ java.awt.Color)
+comment0.text=\r\n\ Define\ a\ color\ to\ be\ used\ for\ a\ given\ class\ of\ animal.\r\n\ @param\ animalClass\ The\ animal's\ Class\ object.\r\n\ @param\ color\ The\ color\ to\ be\ used\ for\ the\ given\ class.\r\n
+comment1.params=
+comment1.target=void\ reset()
+comment1.text=\r\n\ Prepare\ for\ a\ new\ run.\r\n
+numComments=2
